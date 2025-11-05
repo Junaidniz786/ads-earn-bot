@@ -1,7 +1,7 @@
 import os
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "Y8398491491:AAFKnww5QjxKCgJ3DissBWT5IzHNdvpqYtM")
-# ADMIN_IDS as comma separated "12345,67890"
+# ADMIN_IDS as comma separated "7011937754"
 ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS","").split(",") if x.strip().isdigit()]
 CHANNEL_OR_GROUP = os.environ.get(CHANNEL_OR_GROUP = os.environ.get("CHANNEL_OR_GROUP", "@Junaidniz786")
 
