@@ -15,4 +15,4 @@ MIN_WITHDRAW_USDT = float(os.environ.get("MIN_WITHDRAW_USDT", "5.0"))
 WITHDRAW_CURRENCY = os.environ.get("WITHDRAW_CURRENCY", "USDT")
 
 # Admin panel key
-ADMIN_KEY = os.environ.get("ADMIN_KEY", "set-your-secret-key")
+ADMIN_KEY = os.environ.get(ADMIN_KEY = os.environ.get("ADMIN_KEY", "Junaid123@")
